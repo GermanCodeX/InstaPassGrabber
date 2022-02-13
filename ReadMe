@@ -1,0 +1,15 @@
+INSTAGRAM IOS PASSWORD PULLER BY SHERLOCKX
+
+SETUP:
+
+RUN A CMD AND WRITE THOSE:
+
+pip install sockets
+pip install ctypes
+pip install time
+pip install os
+pip install requests
+pip install struct
+pip install zlib
+pip install base64
+pip install imp
